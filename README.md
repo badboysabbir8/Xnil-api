@@ -36,7 +36,7 @@ igstory
 igstalk
 twitter
 fbdown
-youtube
+ytdown
 ttdownloader
 ```
 

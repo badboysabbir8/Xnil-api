@@ -1,7 +1,7 @@
 {
   "name": "xnil-api",
   "version": "1.0.0",
-  "description": "Simple API for Whatsapp Bot features",
+  "description": "Fetch Url Downloads From Instagram & Facebook & TikTok & YouTube & Twitter & Google Drive & Pintarest & likee & threads",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,7 +11,35 @@
     "url": "git+https://github.com/badboysabbir8/xnil-api.git"
   },
   "keywords": [
-    "YNTKTS"
+    "YNTKTS",
+    "instagram",
+    "downloader",
+    "media",
+    "link",
+    "tiktok",
+    "tikvm",
+    "video",
+    "fbdownload",
+    "twdown.net",
+    "fbdownload",
+    "download",
+    "facebook",
+    "fbdown",
+    "youtube",
+    "yt download",
+    "Twitter",
+    "gdrive",
+    "drive link",
+    "google drive",
+    "pintarest",
+    "all media download",
+    "media download",
+    "capcut",
+    "likee",
+    "threads",
+    "nayan",
+    "scaper",
+    "media"
   ],
   "author": "Adiixyz",
   "license": "ISC",

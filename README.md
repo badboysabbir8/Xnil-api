@@ -1,16 +1,16 @@
-# ADII-API
+# XNIL-API
 
 ## Install
 ```cmd
-> npm install adii-api
+> npm install xnil-api
 ```
 
 ### How to use
 ```js
-const Adiiapi = require('adii-api')
-const adii = new Adiiapi()
+const xnil-api = require('xnil-api')
+const xnil = new xnil-api()
 
-adii.chara('nino')
+xnil.chara('nino')
     .then(result => {
      console.log(result)
 });
@@ -39,6 +39,3 @@ fbdown
 ytdown
 ttdownloader
 ```
-
-### Thanks to
-`Hexagon`

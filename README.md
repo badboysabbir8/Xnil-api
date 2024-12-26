@@ -9,13 +9,15 @@
 
 ### How to use
 ```js
-const xnil-api = require('xnil-api')
-const xnil = new xnil-api()
+const xnilApi = require('xnil-api');
 
-xnil.chara('nino')
+xnilApi.ytdown('https://youtu.be/VIgd99Tes5o?si=cSVPJj6_2PnZOsbW')
     .then(result => {
-     console.log(result)
-});
+        console.log(result);
+    })
+    .catch(error => {
+        console.error('Error:', error);
+    });
 ```
 
 ## All features

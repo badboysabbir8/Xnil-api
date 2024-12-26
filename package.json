@@ -1,5 +1,5 @@
 {
-  "name": "adii-api",
+  "name": "xnil-api",
   "version": "1.0.0",
   "description": "Simple API for Whatsapp Bot features",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Adiixyz/Adii-Api.git"
+    "url": "git+https://github.com/badboysabbir8/xnil-api.git"
   },
   "keywords": [
     "YNTKTS"
@@ -16,9 +16,9 @@
   "author": "Adiixyz",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Adiixyz/Adii-Api/issues"
+    "url": "https://github.com/badboysabbir8/xnil-api/issues"
   },
-  "homepage": "https://github.com/Adiixyz/Adii-Api#readme",
+  "homepage": "https://github.com/badboysabbir8/xnil-api#readme",
   "dependencies": {
     "axios": "^0.21.1",
     "cheerio": "^1.0.0-rc.10",
